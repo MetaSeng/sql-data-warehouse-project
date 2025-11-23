@@ -22,7 +22,7 @@ The solution is designed to illustrate practical skills required in:
 
 This project implements the **Medallion Architecture**, a layered approach used in modern data platforms to ensure data quality, maintainability, and scalability.
 
-![Data Architecture](docs/Data Warehouse.drawio.png)
+![Data Architecture](docs/Data_Warehouse.drawio.png)
 
 ### **Bronze Layer – Raw Data**
 
