@@ -50,8 +50,8 @@ All tools used in this project are free.
 
 **Core Technologies**
 
-* SQL Server Express – Database engine
-* SQL Server Management Studio (SSMS) – Development & administration
+* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+* [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/sql/ssms)
 * CSV files – Source datasets (ERP & CRM)
 
 **Documentation & Design**
@@ -145,8 +145,6 @@ data-warehouse-project/
    * `scripts/bronze/`
    * `scripts/silver/`
    * `scripts/gold/`
-5. Run analytical queries from `docs/requirements.md`
-
 ---
 
 ## **7. Key Features**
@@ -160,5 +158,20 @@ data-warehouse-project/
 
 ---
 
+## **8. License**
+
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute this project with proper attribution.
+
+---
+## **9. About the Author**
+
+Hi there! I'm **SilMeta Seng**.  
+I’m a Data Science & AI Engineering student committed to sharing the projects I complete and helping others learn through practical examples.
+
+### **Connect With Me**
+
+* **LinkedIn:** https://www.linkedin.com/in/meta-seng
 
 
+---
